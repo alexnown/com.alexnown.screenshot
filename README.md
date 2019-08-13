@@ -1,2 +1,2 @@
 # com.alexnown.screenshot
-Take screenshot from camera and saving it to Texture2d. Unity DOTS implementation.
+Take a screenshot from the camera and save it in Texture2d. Unity DOTS implementation.
